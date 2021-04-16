@@ -1,0 +1,40 @@
+{
+  "products":[
+      {
+          "id":5,
+          "name":"Product 1",
+          "price":15,
+          "available":10
+      },
+      {
+          "id":7,
+          "name":"Product sdfgsdfg",
+          "price":15,
+          "available":10
+      },
+      {
+          "id":8,
+          "name":"Product dfgsdfg",
+          "price":15,
+          "available":10
+      },
+      {
+          "id":9,
+          "name":"Product sdfg234",
+          "price":15,
+          "available":10
+      },
+      {
+          "id":15,
+          "name":"Product asdf",
+          "price":15,
+          "available":10
+      },
+      {
+          "id":18,
+          "name":"Product fghdfgh",
+          "price":15,
+          "available":10
+      }
+  ]
+}

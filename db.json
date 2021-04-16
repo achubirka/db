@@ -10,31 +10,31 @@
           "id":7,
           "name":"Product sdfgsdfg",
           "price":15,
-          "available":10
+          "available":5
       },
       {
           "id":8,
           "name":"Product dfgsdfg",
           "price":15,
-          "available":10
+          "available":3
       },
       {
           "id":9,
           "name":"Product sdfg234",
           "price":15,
-          "available":10
+          "available":0
       },
       {
           "id":15,
           "name":"Product asdf",
           "price":15,
-          "available":10
+          "available":1000
       },
       {
           "id":18,
           "name":"Product fghdfgh",
           "price":15,
-          "available":10
+          "available":18
       }
   ]
 }
